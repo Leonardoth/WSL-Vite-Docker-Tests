@@ -1,4 +1,4 @@
-# Este é um projeto simples para aprender a utilizar Vite + Docker (com WSL)
+# Este é um projeto simples que comecei para aprender a utilizar Vite + Docker (com WSL)
 
 ## Links uteis:
     - https://dev.to/ysmnikhil/how-to-build-with-react-or-vue-with-vite-and-docker-1a3l (Encontrei depois de ter resolvido 80% dos problemas, por isso algumas soluções desse link serão melhores que as vistas aqui, que devo atualizar futuramente)
